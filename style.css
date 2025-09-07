@@ -259,7 +259,7 @@ body.dark .hero-title {
   align-items: center;
   gap: 0.5rem;
   padding: 0.7rem 1.2rem;
-  border-radius: 12px;
+  border-radius: 9999px;
   font-weight: bold;
   font-size: 1rem;
   text-decoration: none;
@@ -289,7 +289,7 @@ body.dark .hero-title {
   text-decoration: none;
   padding: 1rem 2rem;
   margin: 0.5rem;
-  border-radius: 999px;
+  border-radius: 9999px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s, background-color 0.2s;
 }
@@ -306,7 +306,7 @@ footer .button {
   padding: 0.5rem 1rem;
   background-color: #555555;
   color: #ffffff;
-  border-radius: 12px;
+  border-radius: 9999px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   transition: background-color 0.3s ease, transform 0.2s ease;
 }
@@ -542,7 +542,7 @@ body.dark .hamburger span {
   background-color: transparent;
   color: #000000;
   padding: 0.5rem 1rem;
-  border-radius: 8px;
+  border-radius: 9999px;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
